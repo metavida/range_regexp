@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = RangeRegexp::VERSION
   spec.authors       = ["Jonathon M. Abbott"]
   spec.email         = ["jonathona@everydayhero.com.au"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Generates regular expressions that match a range}
+  spec.summary       = %q{Generates regular expressions that match a range}
   spec.homepage      = ""
   spec.license       = "MIT"
 
